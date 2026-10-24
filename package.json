@@ -1,0 +1,15 @@
+{
+  "name": "arabisch-deutsch-translator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Arabic-German professional translation app with local translation history",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
